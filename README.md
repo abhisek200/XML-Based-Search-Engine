@@ -9,7 +9,7 @@ Changes:
 - Developed Front End.
 - Used BM-25 ranking over TF-IDF resulting better query output.
 - Used joblib library instead of pickle resulting in less overheads and parralel processining resulting faster indexing.
-- Separate Parameter to USER whether they want to use a search type or not on the UI, resulting more flexibility to query results.
+- Separate Parameter to whether they want to have specific search_type in the output, resulting more flexibility to query results.
 
 
 ~ Developed by Abhisek Panda
